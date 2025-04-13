@@ -22,6 +22,6 @@
   "homepage": "https://github.com/domfarolino/mongoose-test-server#readme",
   "dependencies": {
     "express": "^4.21.2",
-    "mongoose": "8.6.4"
+    "mongoose": "8.13.2"
   }
 }
