@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-test-server",
+  "version": "1.0.0",
+  "description": "Testing https://github.com/Automattic/mongoose/issues/15015",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domfarolino/mongoose-test-server.git"
+  },
+  "author": "Dom Farolino <domfarolino@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/domfarolino/mongoose-test-server/issues"
+  },
+  "homepage": "https://github.com/domfarolino/mongoose-test-server#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "8.6.4"
+  }
+}
